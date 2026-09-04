@@ -32,3 +32,4 @@ I'm also open to international remote software development opportunities.
 
 LinkedIn: linkedin.com/in/lucas-agostinelli  
 Email: agostinellinunis@gmail.com
+Portfolio: https://lucasagostinelli.vercel.app/
